@@ -1,4 +1,6 @@
-# Beginner GitHub Pages Demo
+# ADVANCED GitHub Pages Demo
+
+We are making this advanced because its on a fancy new branch
 
 This project is a very small website created to demonstrate the basics of GitHub.
 
