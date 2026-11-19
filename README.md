@@ -35,7 +35,7 @@ GitHub is used by well-known companies, government and scientific organizations,
 - **Microsoft — Visual Studio Code:** https://github.com/microsoft/vscode  
   Microsoft develops the open-source foundation of Visual Studio Code with the community on GitHub, including code, issues, documentation, roadmaps, and pull requests.
 
-- **NASA — F Prime:** https://github.com/nasa/fprime  
+- **NASA — 3d:** https://github.com/nasa/NASA-3D-Resources
   NASA uses GitHub for F Prime, an open-source flight software framework, showing how GitHub supports serious scientific and engineering work.
 
 - **The New York Times — Library:** https://github.com/nytimes/library  
