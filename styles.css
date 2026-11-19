@@ -1,18 +1,18 @@
-/* Change the page background color here. */
+/* Change the page color here */
 body {
-  background-color: lightblue;
-  color: darkgreen;
-  font-family: Arial, sans-serif;
+  background-color: lightyellow;
+  color: purple;
+  font-family: Arial;
   text-align: center;
 }
 
-/* Change the heading color or size here. */
+/* Change the title here */
 h1 {
-  color: navy;
-  font-size: 40px;
+  color: red;
+  font-size: 50px;
 }
 
-/* Change the image width here. */
+/* Change the image size here */
 img {
   width: 300px;
 }
