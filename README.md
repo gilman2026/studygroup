@@ -27,3 +27,24 @@ We will publish the website with GitHub Pages. Then a colleague will create a br
 5. Under **Build and deployment**, choose **Deploy from a branch**.
 6. Select the `main` branch and the `/ (root)` folder, then select **Save**.
 7. Wait a minute or two. GitHub will show the public website link on the Pages settings screen.
+
+## GitHub in the real world
+
+GitHub is used by well-known companies, government and scientific organizations, media organizations, and nonprofits to collaborate on digital projects. Here are five examples:
+
+- **Microsoft — Visual Studio Code:** https://github.com/microsoft/vscode  
+  Microsoft develops the open-source foundation of Visual Studio Code with the community on GitHub, including code, issues, documentation, roadmaps, and pull requests.
+
+- **NASA — F Prime:** https://github.com/nasa/fprime  
+  NASA uses GitHub for F Prime, an open-source flight software framework, showing how GitHub supports serious scientific and engineering work.
+
+- **The New York Times — Library:** https://github.com/nytimes/library  
+  The New York Times created Library as a collaborative newsroom documentation project and uses GitHub to manage contributions to code and documentation.
+
+- **IPCC Working Group I — Atlas:** https://github.com/IPCC-WG1/Atlas  
+  This repository supports the IPCC AR6 Working Group I Atlas and helps make climate-science data and analysis transparent, traceable, and reproducible.
+
+- **UNICEF — Global Child Hazard Database:** https://github.com/unicef/GCHD  
+  UNICEF uses this repository for an open climate and environment data project covering children's exposure to hazards such as floods, drought, heat, wildfire, and air pollution.
+
+These examples illustrate an important point: **GitHub is not only a place for software developers. It is a platform for collaborating on files, tracking changes, reviewing contributions, and making digital work more transparent and reproducible.**
